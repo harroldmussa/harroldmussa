@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with a love for creating innovative solutions and contributing to open-source projects. When I'm not coding, you'll find me exploring new technologies, contributing to the developer community, or working on side projects that make a difference, or taking care of my 2 year old boy. 
+I'm a passionate **Full Stack Developer** (with 6+ years experience) with a love for creating innovative solutions and contributing to open-source projects. When I'm not coding, you'll find me exploring new technologies, contributing to the developer community, or working on side projects that make a difference, or taking care of my 2 year old boy. 
 
 - 🔭 I'm currently working on **RelateAI - an Emotionally Aware and Intelligent AI**
 - 🌱 I'm currently learning **Pythong and its libraries for AI Development**
